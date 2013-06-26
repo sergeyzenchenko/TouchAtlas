@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'TouchAtlas' target in the 'TouchAtlas' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import <AppleGuice/AppleGuice.h>
+#endif
